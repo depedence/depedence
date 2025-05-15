@@ -1,16 +1,42 @@
-## Hi there 👋
+<h1 align="center">Привет! Я QA-инженер 👨‍💻</h1>
 
-<!--
-**depedence/depedence** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <b>Тестировщик-автоматизатор, специализируюсь на JavaScript + Jest</b><br>
+  Пишу автотесты, занимаюсь ручным тестированием и прокачиваю навыки каждый день 🚀
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧰 Технологии и инструменты:
+
+- 📌 JavaScript (ES6+)
+- ✅ Jest
+- 📦 Node.js
+- 📄 Postman (тестирование API)
+- ⚙️ Git, GitHub
+- 🧪 Supertest, Playwright, Robot Framework
+
+---
+
+### 📂 Портфолио проектов:
+
+| Название проекта             | Описание                                               | Ссылка                                                                       |
+|-----------------------------|--------------------------------------------------------|------------------------------------------------------------------------------|
+| My JS Works                 | Автотесты на Jest: синхронные и асинхронные функции     | [GitHub →](https://github.com/depedence/my-js-works)                        |
+| Microservices JS            | Тестирование микросервисов на Jest + Supertest         | [GitHub →](https://github.com/depedence/microservices-js)                   |
+| UI Testing (Robot Framework)| UI автотесты на Python (Robot Framework)               | [GitHub →](https://github.com/depedence/Portfolio)                          |
+
+_Больше проектов в разработке..._
+
+---
+
+### 📫 Связаться со мной:
+
+- Telegram: [@depedence](https://t.me/depedence)
+- Email: avergunol@yandex.ru
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=depedence&show_icons=true&theme=radical" />
+</p>
