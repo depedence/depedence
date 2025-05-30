@@ -42,6 +42,7 @@ _Больше проектов в разработке..._
 
 - Telegram: [@depedence](https://t.me/depedence)
 - Email: avergunol@yandex.ru
+- bugpoint: [Личный проект о QA](https://t.me/bugpointqa)
 
 ---
 
