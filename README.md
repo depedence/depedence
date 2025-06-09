@@ -46,5 +46,5 @@ _Больше проектов в разработке..._
 ---
 
 <p align="center">
-  [(https://github-readme-stats.vercel.app/api/top-langs/?username=вузувутсу&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=depedence&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </p>
