@@ -45,6 +45,4 @@ _Больше проектов в разработке..._
 
 ---
 
-<p align="center">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=depedence&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-</p>
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=depedence)](https://github.com/depedence/github-readme-activity-graph)
