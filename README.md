@@ -44,5 +44,3 @@ _Больше проектов в разработке..._
 - bugpoint: [Личный проект о QA](https://t.me/bugpointqa)
 
 ---
-
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=depedence)](https://github.com/ashutosh00710/github-readme-activity-graph)
