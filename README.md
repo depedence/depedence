@@ -1,13 +1,13 @@
-<h1 align="center">Hi there! I'm a QA Engineer 👨‍💻</h1>
+<h1 align="center">Welcome to my GitHub Profile</h1>
 
 <p align="center">
-  <b>Automation QA Engineer, specialized in JavaScript + Jest</b><br>
-  I write automated tests, do manual testing, and improve my skills every day 🚀
+  <b>Quality Assurance Engineer specializing in Test Automation (JavaScript + Jest)</b><br>
+  I develop and maintain automated test suites, conduct manual testing, and consistently enhance my professional skills.
 </p>
 
 ---
 
-### 🧰 Technologies & Tools:
+### 🧰 Technologies & Tools
 
 - 📌 JavaScript (ES6+)
 - ✅ Jest + Supertest
@@ -18,29 +18,29 @@
 
 ---
 
-### 📂 Project Portfolio:
+### 📂 Selected Projects
 
-| Project Name                | Description                                             | Link                                                                       |
-|-----------------------------|---------------------------------------------------------|----------------------------------------------------------------------------|
-| My JS Works                 | Jest tests: synchronous and asynchronous functions      | [GitHub →](https://github.com/depedence/my-js-works)                        |
-| Microservices JS            | Microservices testing using Jest + Supertest           | [GitHub →](https://github.com/depedence/microservices-js)                   |
-| UI Testing (Robot Framework)| UI automation tests in Python (Robot Framework)        | [GitHub →](https://github.com/depedence/Portfolio)                          |
-| UI Testing (playwright)     | UI automation tests in JS (playwright)                 | [GitHub →](https://github.com/depedence/UI-playwright)                      |
+| Project                     | Description                                                         | Link                                                                       |
+|----------------------------|---------------------------------------------------------------------|----------------------------------------------------------------------------|
+| My JS Works                | Automated tests using Jest: covers both sync and async functions    | [GitHub →](https://github.com/depedence/my-js-works)                      |
+| Microservices JS           | End-to-end testing of microservices using Jest and Supertest        | [GitHub →](https://github.com/depedence/microservices-js)                 |
+| UI Testing (Robot Framework)| UI automation in Python using Robot Framework                      | [GitHub →](https://github.com/depedence/Portfolio)                        |
+| UI Testing (Playwright)    | Frontend test automation in JavaScript using Playwright             | [GitHub →](https://github.com/depedence/UI-playwright)                    |
 
-_More projects in progress..._
-
----
-
-## 📜 Practice & Internship
-
-<img src="/certificate-2.jpg" width="280px" hspace="10px" alt="Certificate of Internship Completion">  <img src="/certificate-1.jpg" width="280px" hspace="10px" alt="Certificate of Internship Completion">
+_Ongoing development of additional projects._
 
 ---
 
-### 📫 Contact me:
+## 📜 Internship & Certification
+
+<img src="/certificate-2.jpg" width="280px" hspace="10px" alt="Internship Completion Certificate">  <img src="/certificate-1.jpg" width="280px" hspace="10px" alt="Internship Completion Certificate">
+
+---
+
+### 📫 Contact
 
 - Telegram: [@depedence](https://t.me/depedence)
 - Email: avergunol@yandex.ru
-- bugpoint: [Personal QA Project](https://t.me/bugpointqa)
+- bugpoint: [My QA Project](https://t.me/bugpointqa)
 
 ---
