@@ -33,8 +33,8 @@ _Ongoing development of additional projects._
 
 ## 📜 Internship & Certification
 
-<img src="/certificate-2.jpg" width="280px" hspace="10px" alt="Internship Completion Certificate">  <img src="/certificate-1.jpg" width="280px" hspace="10px" alt="Internship Completion Certificate">
-<img src="/srtificate-3.png" width="280px" hspace="10px" alt="Internship Completion Certificate">
+<img src="/certificate-2.jpg" width="220px" hspace="10px" alt="Internship Completion Certificate">  <img src="/certificate-1.jpg" width="220px" hspace="10px" alt="Internship Completion Certificate">
+<img src="/srtificate-3.png" width="220px" hspace="10px" alt="Internship Completion Certificate">
 
 ---
 
