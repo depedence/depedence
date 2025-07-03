@@ -1,33 +1,34 @@
 <h1 align="center">Welcome to my GitHub Profile</h1>
 
 <p align="center">
-  <b>Quality Assurance Engineer specializing in Test Automation (JavaScript + Jest)</b><br>
+  <b>Quality Assurance Engineer specializing in Test Automation (JavaScript + Jest + Playwright)</b><br>
   I develop and maintain automated test suites, conduct manual testing, and consistently enhance my professional skills.
 </p>
 
 ---
 
-### 🧰 Technologies & Tools
+### 🧰 My stack
 
-- 📌 JavaScript (ES6+)
+- 📌 JavaScript/TypeScript
 - ✅ Jest + Supertest
 - 📦 Node.js
 - 📄 Postman, Bruno (API testing)
 - ⚙️ Git, GitHub
-- 🧪 Playwright, Robot Framework
+- 🧪 Playwright, Robot Framework (UI testing)
 
 ---
 
-### 📂 Selected Projects
+### 📂 Pet-projects
 
-| Project                     | Description                                                         | Link                                                                       |
-|----------------------------|---------------------------------------------------------------------|----------------------------------------------------------------------------|
+| Project                     | Description                                                         | Link                                                                     |
+|----------------------------|---------------------------------------------------------------------|---------------------------------------------------------------------------|
+| Bug tracker (bugpoint Tracker) | My personal pet-project with local data base on TypeScript      | [GitHub →](https://github.com/depedence/bugpoint-tracker-qa)              |
 | My JS Works                | Automated tests using Jest: covers both sync and async functions    | [GitHub →](https://github.com/depedence/my-js-works)                      |
 | Microservices JS           | End-to-end testing of microservices using Jest and Supertest        | [GitHub →](https://github.com/depedence/microservices-js)                 |
 | UI Testing (Robot Framework)| UI automation in Python using Robot Framework                      | [GitHub →](https://github.com/depedence/Portfolio)                        |
 | UI Testing (Playwright)    | Frontend test automation in JavaScript using Playwright             | [GitHub →](https://github.com/depedence/UI-playwright)                    |
 
-_Ongoing development of additional projects._
+_more projects in development..._
 
 ---
 
