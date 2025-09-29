@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to my GitHub Profile</h1>
 
 <p align="center">
-  <b>Quality Assurance Engineer specializing in Test Automation (JavaScript + Jest + Playwright)</b><br>
+  <b>Fullstack Quality Assurance Engineer (manual, auto)</b><br>
   I develop and maintain automated test suites, conduct manual testing, and consistently enhance my professional skills.
 </p>
 
