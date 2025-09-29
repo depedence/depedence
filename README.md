@@ -9,24 +9,22 @@
 
 ### 🧰 My stack
 
-- 📌 JavaScript/TypeScript
-- ✅ Jest + Supertest
-- 📦 Node.js
+- 📌 JavaScript/TypeScript (Jest, Playwright, Detox(React Native apps) )
+- ✅ Python (Selenium, Playwright, pytest, Robot Framework)
 - 📄 Postman, Bruno (API testing)
-- ⚙️ Git, GitHub
-- 🧪 Playwright, Robot Framework (UI testing)
+- ⚙️ CI/CD (Jenkins)
+- 🧪 Test reports (Allure)
 
 ---
 
 ### 📂 Pet-projects
 
-| Project                     | Description                                                         | Link                                                                     |
-|----------------------------|---------------------------------------------------------------------|---------------------------------------------------------------------------|
-| Bug tracker (bugpoint Tracker) | My personal pet-project with local data base on TypeScript      | [GitHub →](https://github.com/depedence/bugpoint-tracker-qa)              |
-| My JS Works                | Automated tests using Jest: covers both sync and async functions    | [GitHub →](https://github.com/depedence/my-js-works)                      |
-| Microservices JS           | End-to-end testing of microservices using Jest and Supertest        | [GitHub →](https://github.com/depedence/microservices-js)                 |
-| UI Testing (Robot Framework)| UI automation in Python using Robot Framework                      | [GitHub →](https://github.com/depedence/Portfolio)                        |
-| UI Testing (Playwright)    | Frontend test automation in JavaScript using Playwright             | [GitHub →](https://github.com/depedence/UI-playwright)                    |
+| Project                        | Description                                                         | Link                                                                      |
+|--------------------------------|---------------------------------------------------------------------|---------------------------------------------------------------------------|
+| UI Testing (Selenium+Pytest)   | UI testing on Python with Selenium+pytest+allure+jenkins            | [GitHub →](https://github.com/depedence/python-selenium)                  |
+| big web-project with e2e tests | My personal pet-project with local data base on TypeScript          | [GitHub →](https://github.com/depedence/bugpoint-tracker-qa)              |
+| UI Testing (Robot Framework)   | UI automation in Python using Robot Framework                       | [GitHub →](https://github.com/depedence/Portfolio)                        |
+| UI Testing (Playwright)        | Frontend test automation in JavaScript using Playwright             | [GitHub →](https://github.com/depedence/UI-playwright)                    |
 
 _more projects in development..._
 
