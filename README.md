@@ -21,8 +21,8 @@
 
 | Project                        | Description                                                         | Link                                                                      |
 |--------------------------------|---------------------------------------------------------------------|---------------------------------------------------------------------------|
-| UI Testing (Selenium+Pytest)   | UI testing on Python with Selenium+pytest+allure+jenkins            | [GitHub →](https://github.com/depedence/python-selenium)                  |
 | big web-project with e2e tests | My personal pet-project with local data base on TypeScript          | [GitHub →](https://github.com/depedence/bugpoint-tracker-qa)              |
+| UI Testing (Selenium+Pytest)   | UI testing on Python with Selenium+pytest+allure+jenkins            | [GitHub →](https://github.com/depedence/python-selenium)                  |
 | UI Testing (Robot Framework)   | UI automation in Python using Robot Framework                       | [GitHub →](https://github.com/depedence/Portfolio)                        |
 | UI Testing (Playwright)        | Frontend test automation in JavaScript using Playwright             | [GitHub →](https://github.com/depedence/UI-playwright)                    |
 
