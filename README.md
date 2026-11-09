@@ -6,7 +6,7 @@ I'm depedence, an IT specialist from Russia.
 
 🏕️ I work as an AQA engineer (JavaScript)
 
-🔥 I am actively involved in development (Java, Rust)
+🔥 I am actively involved in development (Java, Python)
 
 ### Skills
 
